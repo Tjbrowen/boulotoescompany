@@ -8,7 +8,7 @@ export default defineConfig({
     // Other build options...
     rollupOptions: {
       // Other Rollup options...
-      external: ['express-async-handler']
+      external:['express-async-handler', '@prisma/client']
     }
   }
 });
