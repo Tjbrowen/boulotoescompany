@@ -1,0 +1,34 @@
+[
+  {
+    "_id": { "$oid": "64392e0bdfd90fb29e464fbc" },
+    "title": "Driekoppies Regional Water Scheme 10ml Concrete Reservoir Malelane",
+    "description": "The company worked as a subcontractor and part of the management team for the main contractor , Ibutho Projects from November 2020 to February 2023. Ibutho Projects contact number: 013 753 3502/0879439383. ",
+    "image": "https://i.ibb.co/v17WYrv/r9.png",
+    "createdAt": { "$date": "2023-04-14T10:42:19.231Z" },
+    "updatedAt": { "$date": "2023-04-14T10:42:19.231Z" }
+  },
+  {
+    "_id": { "$oid": "6439001c74446601d6fce96d" },
+    "title": "DPWRT/011/20/MP: Highveld Park High School. Secunda",
+    "description": "The company worked as a subcontractor and part of the management team for the main contractor , Makhayeni Saint Trading from April 2023 to October 2023. Contact number: 082 967 0497.  ",
+    "image": "https://i.ibb.co/SrCCGRS/r10.png",
+    "createdAt": { "$date": "2023-04-14T07:26:20.051Z" },
+    "updatedAt": { "$date": "2023-04-14T07:26:20.051Z" }
+  },
+  {
+    "_id": { "$oid": "64392e1edfd90fb29e464fbd" },
+    "title": "Lusushwane Water Treatment Phase 1,2 & 3",
+    "description": "The company worked as a subcontractor and part of the management team for the main contractor , Avax cc",
+    "image": "https://i.ibb.co/SJZWyry/r11.png",
+    "createdAt": { "$date": "2023-04-14T10:42:37.946Z" },
+    "updatedAt": { "$date": "2023-04-14T10:42:37.946Z" }
+  },
+  {
+    "_id": { "$oid": "64392d67dfd90fb29e464fb8" },
+    "title": "EDM/16/2013-14 Upgrading of Lydenburg Bulk Water Supply",
+    "description": "Supplying of valves and steel pipes",
+    "image": "https://i.ibb.co/17Cw2B5/r12.png",
+    "createdAt": { "$date": "2023-04-14T10:39:35.044Z" },
+    "updatedAt": { "$date": "2023-04-14T10:39:35.044Z" }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "_id": { "$oid": "64392d39dfd90fb29e464fb7" },
+    "title": "Formwork",
+    "description": "Read and interpret working plans and drawings for the job, Set out the work from these instruction, Erect and dismantle formwork as per the specification for all types of structure, Fabricate timber shuttering as and when required, Position the formwork ready for concrete pours, Open in accordance with safe working procedures",
+     "image": "https://i.ibb.co/bz7bXRk/r6.png",
+    "userEmail": "wise@gmail.com",
+    "createdAt": { "$date": "2023-04-14T10:38:48.762Z" },
+    "updatedAt": { "$date": "2023-04-14T10:38:48.762Z" },
+    "address": "Tonga Road",
+    "city": "Mzinti",
+    "country": "South Africa"
+  },
+  {
+    "_id": { "$oid": "64392e0bdfd90fb29e464fbc" },
+    "title": "Scaffolding",
+    "description": "Supplying and erecting to any kind of a bulding structure",
+     "image": "https://i.ibb.co/s3N6h5B/r5.png",
+     "address": "Tonga Road",
+     "city": "Mzinti",
+     "country": "South Africa",
+    "userEmail": "odette@gmail.com",
+    "createdAt": { "$date": "2023-04-14T10:42:19.231Z" },
+    "updatedAt": { "$date": "2023-04-14T10:42:19.231Z" }
+  },
+  {
+    "_id": { "$oid": "6439001c74446601d6fce96d" },
+    "title": " Steel Fixer",
+    "description": "Setting out the work area, following engineering plans, Using hand and power tools to cut and bend bars or mesh, Tying steel reinforcement bars (rebars) to build cages, Fitting spacers and chairs (supports), Using rebar to build special casts to keep setting concrete in place, Fixing steel to concrete bases, Installing beams and pre-cast slabs.",
+    "image": "https://i.ibb.co/1bfxrgw/r4.png",
+    "userEmail": "joe@gmail.com",
+    "createdAt": { "$date": "2023-04-14T07:26:20.051Z" },
+    "updatedAt": { "$date": "2023-04-14T07:26:20.051Z" },
+    "address": "Tonga Road",
+    "city": "Mzinti",
+    "country": "South Africa"
+  },
+  {
+    "_id": { "$oid": "64392e1edfd90fb29e464fbd" },
+    "title": "Pipeline",
+    "description": "Pipe Fabrication, Pipeline intallation and Pressure Testing",
+    "image": "https://i.ibb.co/4Rx9ggw/r3.png",
+    "address": "Tonga Road",
+    "city": "Mzinti",
+    "country": "South Africa",
+    "userEmail": "mom@gmail.com",
+    "createdAt": { "$date": "2023-04-14T10:42:37.946Z" },
+    "updatedAt": { "$date": "2023-04-14T10:42:37.946Z" }
+  },
+  {
+    "_id": { "$oid": "64392d67dfd90fb29e464fb8" },
+    "title": "Supply and Delivery",
+    "description": "We supply and deliver all kids of products within the borders of South Africa",
+    "image": "https://i.ibb.co/x87mNyG/r7.png",
+    "userEmail": "sandile.good@gmail.com",
+    "createdAt": { "$date": "2023-04-14T10:39:35.044Z" },
+    "updatedAt": { "$date": "2023-04-14T10:39:35.044Z" },
+    "address": "Tonga Road",
+    "city": "Mzinti",
+    "country": "South Africa"
+  },
+  {
+    "_id": { "$oid": "64392df2dfd90fb29e464fbb" },
+    "title": "Plumbing",
+    "description": "Installation of new plumbing systems, including piping, fixtures, and appliances such as sinks,toilets, and water heaters.  Maintain and repair existing plumbing systems. ",
+    "image": "https://i.ibb.co/DgH3k8N/r8.png",
+    "address": "Tonga Road",
+    "city": "Mzinti",
+    "country": "South Africa",
+    "userEmail": "molo@gmail.com",
+    "createdAt": { "$date": "2023-04-14T10:41:54.156Z" },
+    "updatedAt": { "$date": "2023-04-14T10:41:54.156Z" }
+  }
+
+]

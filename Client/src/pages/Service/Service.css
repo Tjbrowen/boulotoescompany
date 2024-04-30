@@ -1,0 +1,54 @@
+.service-container{
+gap: 2rem;
+position: relative;
+}
+
+.service-container>img{
+    align-self: center;
+    max-height: 35rem;
+    width: 100%;
+    border-radius: 1rem;
+    object-fit: cover;
+}
+
+.property-details{
+    width: 100%;
+    gap:2rem;
+    justify-content: space-between;
+}
+
+.property-details>div{
+    flex: 1; 
+    gap: 1.5rem;
+}
+
+.property-details .left .head{
+    justify-content: space-between;
+    width: 100%;
+}
+
+.property-details .button{
+width: 100%;
+margin-top: 1rem;
+}
+
+.property-details .button:hover{
+    transform: scale(1.05);
+}
+
+.address-pin{
+    justify-content: space-between
+}
+
+@media (max-width: 700px) {
+    .service-container>div{
+        flex-direction: column;
+    }
+    .head{
+        flex-direction: column;
+    }
+
+    .property-details>div{
+        width: 100%;
+    }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Formwork",
+    "price": "47,043",
+    "detail": "Read and interpret working plans and drawings for the job, Set out the work from these instruction, Erect and dismantle formwork as per the specification for all types of structure, Fabricate timber shuttering as and when required, Position the formwork ready for concrete pours, Open in accordance with safe working procedures",
+    "image": "./r6.png"
+  },
+  {
+    "name": "Scaffolding",
+    "price": "66,353",
+    "detail": "Supplying and erecting to any kind of a bulding structure ",
+    "image": "./r5.png"
+  },
+  {
+    "name": " Steel Fixer",
+    "price": "35,853",
+    "detail": "Setting out the work area, following engineering plans, Using hand and power tools to cut and bend bars or mesh, Tying steel reinforcement bars (rebars) to build cages, Fitting spacers and chairs (supports), Using rebar to build special casts to keep setting concrete in place, Fixing steel to concrete bases, Installing beams and pre-cast slabs.",
+    "image": "./r4.png"
+  },
+  {
+    "name": "Pipeline",
+    "price": "47,043",
+    "detail": "Pipe Fabrication, Pipeline intallation and Pressure Testing",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Supply and Delivery",
+    "price": "66,353",
+    "detail": "We supply and deliver all kids of products within the borders of South Africa ",
+    "image": "./r7.png"
+  },
+  {
+    "name": " Plumbing",
+    "price": "35,853",
+    "detail": "Installation of new plumbing systems, including piping, fixtures, and appliances such as sinks,toilets, and water heaters.  Maintain and repair existing plumbing systems. ",
+    "image": "./r8.png"
+  }
+]
